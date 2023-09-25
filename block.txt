@@ -1,0 +1,13 @@
+                <div class="student-member">
+                    <div class=" mt-100 d-flex">
+                        <div class="author-thumbnail">
+                            <img src="assets/img/students/{}" alt="">
+                        </div>
+                        <div class="author-info">
+                            <div class="line"></div>
+                            <span class="author-role">{}</span>
+                            <h4><a href="#" class="author-name">{}</a></h4>
+                        </div>
+                    </div>
+                </div>
+
